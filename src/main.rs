@@ -28,5 +28,5 @@ async fn main() {
 }
 
 async fn print_version() -> String {
-    String::from("Your version is v1")
+    String::from("Your version is v2")
 }
